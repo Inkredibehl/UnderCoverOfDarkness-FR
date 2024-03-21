@@ -1,0 +1,24 @@
+Sandbox_FR = {
+    Sandbox_UnderCoverOfDarkness = "Under Cover of Darkness",
+
+	Sandbox_UnderCoverOfDarkness_NormalZombieSight = "Vision normale des zombies",
+    Sandbox_UnderCoverOfDarkness_NormalZombieSight_tooltip = "Le niveau de vision des zombies dans des conditions normales.",
+    Sandbox_UnderCoverOfDarkness_NormalZombieSight_option1 = "Aigle",
+    Sandbox_UnderCoverOfDarkness_NormalZombieSight_option2 = "Normal",
+    Sandbox_UnderCoverOfDarkness_NormalZombieSight_option3 = "Faible",
+
+    Sandbox_UnderCoverOfDarkness_ReducedZombieSight = "Vision réduite des zombies",
+    Sandbox_UnderCoverOfDarkness_ReducedZombieSight_tooltip = "Le niveau de vision des zombies pendant la nuit ou par temps de brouillard.",
+    Sandbox_UnderCoverOfDarkness_ReducedZombieSight_option1 = "Aigle",
+    Sandbox_UnderCoverOfDarkness_ReducedZombieSight_option2 = "Normal",
+    Sandbox_UnderCoverOfDarkness_ReducedZombieSight_option3 = "Faible",
+
+    Sandbox_UnderCoverOfDarkness_MinimumDarknessLevel = "Niveau de noirceur minimum",
+    Sandbox_UnderCoverOfDarkness_MinimumDarknessLevel_tooltip = "Le niveau de noirceur minimum pour réduire la vision des zombies.",
+    Sandbox_UnderCoverOfDarkness_MinimumDarknessLevel_option1 = "Lumière basse",
+    Sandbox_UnderCoverOfDarkness_MinimumDarknessLevel_option2 = "Noir",
+    Sandbox_UnderCoverOfDarkness_MinimumDarknessLevel_option3 = "Noir total",
+
+    Sandbox_UnderCoverOfDarkness_MinimumFogIntensity = "Intensité minimale du brouillard",
+    Sandbox_UnderCoverOfDarkness_MinimumFogIntensity_tooltip = "L'intensité minimale du brouillard pour réduire la vision des zombies."
+}
